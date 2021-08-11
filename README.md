@@ -1,6 +1,6 @@
 # calendar---backend
 
-Aplicacion hecha con node y mongo DB es el backen de calendar fron
+Aplicacion hecha con node y mongoDB es el backen de calendar front
 
 ## Instalación
 
@@ -10,3 +10,4 @@ Aplicacion hecha con node y mongo DB es el backen de calendar fron
   * PORT=
   * DB_CNN=db de mongo
   * SECRET_JWT_SEED=cualquier clave
+
