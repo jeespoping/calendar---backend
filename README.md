@@ -12,5 +12,5 @@ Aplicacion hecha con node y mongoDB es el backen de calendar front
   * SECRET_JWT_SEED=cualquier clave
 
 ## Deploy
-* [calendar](https://calendar-lopez.herokuapp.com/login)
+* [calendar](https://calendar-lopez.herokuapp.com/)
 
